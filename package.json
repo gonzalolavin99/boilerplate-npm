@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+"author": "Gonzalo Lavin",
+	"description": "A nwe test for improve my skills",
+	"keywords": ["related", "words", "freeCodeCamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
